@@ -1,4 +1,5 @@
 This is project 0 visualization for InfoVis by Samantha Molnar.
+Collaborators: Allie Morgan, discussions with Melissa Bica and Jennings ...
 
 The following bells & whistles are implemented:
 	1) Tooltip. Hover over datapoints in Part3&4 to see the point values.
