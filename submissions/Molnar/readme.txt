@@ -8,6 +8,6 @@ The following bells & whistles are implemented:
 	4) View x and y values as bar charts, attempted coordinated views.
 	5) Internet ussage:
 		-I used https://color.adobe.com/ to look for color schemes.  It's pretty neat if you haven't checked it out!
-		- I used http://bl.ocks.org/Caged/6476579 to see an example of how to create a better tooltip.
+		- I used http://bl.oscks.org/Caged/6476579 to see an example of how to create a better tooltip.
 
 	
